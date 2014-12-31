@@ -38,6 +38,7 @@
 		2743D1A11A537A1E004B5A69 /* BlogReaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlogReaderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2743D1A61A537A1E004B5A69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2743D1A71A537A1E004B5A69 /* BlogReaderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogReaderTests.swift; sourceTree = "<group>"; };
+		2743D1B11A537AC3004B5A69 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 			children = (
 				2743D18F1A537A1E004B5A69 /* AppDelegate.swift */,
 				2743D1911A537A1E004B5A69 /* MasterViewController.swift */,
+				2743D1B11A537AC3004B5A69 /* MyPlayground.playground */,
 				2743D1931A537A1E004B5A69 /* DetailViewController.swift */,
 				2743D1951A537A1E004B5A69 /* Main.storyboard */,
 				2743D1981A537A1E004B5A69 /* Images.xcassets */,
